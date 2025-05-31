@@ -1,0 +1,22 @@
+{
+    "name": "huynhdev24/ophim-pro-laravel-caching-model",
+    "description": "A simple cache library for laravel eloquent model",
+    "type": "library",
+    "require": {
+        "php": "^8.2",
+        "laravel/framework": "^12.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Huynhdev24\\CachingModel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "huynhdev24",
+            "email": "huynh.dev.24@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
